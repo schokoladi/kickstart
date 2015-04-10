@@ -2,6 +2,8 @@
 
 Kickstart files for bootstrapping CentOS-7 machines.
 
-| Name       | Description           |
-| ---------- | --------------------- |
-| docker.cfg | Install a docker host |
+| Name       | Description           | virtio? |
+| ---------- | --------------------- | ------- |
+| docker.cfg | Install a docker host | Yes
+| ovirt.cfg  | Install an ovirt host  | No
+| ovirt-engine.cfg | Install a hosted ovirt engine | Yes
