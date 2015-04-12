@@ -2,9 +2,9 @@
 
 Kickstart files for bootstrapping CentOS-7 machines.
 
-| Name       | Description           | virtio? |
-| ---------- | --------------------- | ------- |
-| docker.cfg | Install a docker host | Yes
-| ovirt.cfg  | Install an ovirt host  | No
-| ovirt-engine.cfg | Install a hosted ovirt engine | Yes
-| foreman.cfg | Install a foreman host | Yes
+| Name       | Description           |
+| ---------- | --------------------- |
+| docker.cfg | Install a docker host
+| ovirt.cfg  | Install an ovirt host
+| ovirt-engine.cfg | Install a hosted ovirt engine
+| foreman.cfg | Install a foreman host
